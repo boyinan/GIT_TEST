@@ -1,9 +1,12 @@
+
+Hello All,
+------------------------------------------------------------------------------------------
 2 ec2 
 1 ec2 appache server web 
 1 ec2 appache tomcat 
-
-
-
 https://www.sitepoint.com/how-to-install-apache-on-windows/
-
 https://thecodecentral.com/2007/03/24/setting-up-your-own-web-server-with-apache-http-server-php-and-mysql-on-a-windows-machine
+-----------------------------------------------------------------------------------------------
+
+Regards,
+Nagaraju
